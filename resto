@@ -3,6 +3,9 @@
   <head>
     <meta charset="utf-8" />
     <title>Resto Sanjaya</title>
+    element {
+ property: value;
+}
   </head>
   <body>
   <main>
