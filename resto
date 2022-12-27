@@ -6,11 +6,19 @@
     element {
  property: value;
 }
+<style>
+h1 {
+text-align: center;
+}
+</style>
   </head>
   <body>
   <main>
   <h1>RESTO SEAFOOD SANJAYA (RSS)</h1>
   <p>Makanan Para Sang Pemenang</p>
+  <section>
+  <h2>Seafood</h2>
+  </section>
   </main>
   </body>
 
