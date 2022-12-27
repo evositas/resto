@@ -21,6 +21,7 @@ div {
 </style>
   </head>
   <body>
+  <div>
   <main>
   <h1>RESTO SEAFOOD SANJAYA (RSS)</h1>
   <p>Makanan Para Sang Pemenang</p>
@@ -29,5 +30,6 @@ div {
   </section>
   </main>
   </body>
+  </div>
 
 </html>
