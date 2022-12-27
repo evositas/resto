@@ -8,9 +8,7 @@
    </head>
 <style>
 body {
-  /*
-  background-color: burlywood;
-  */
+  background-image: url(https://pbs.twimg.com/media/FkrNfhxUoAIw3Mi?format=jpg);
 }
 
 h1, h2, p {
