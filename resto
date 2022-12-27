@@ -15,7 +15,7 @@ h1, h2, p {
 text-align: center;
 }
 div {
-  width: 80%;
+  width: 300px;
   background-color: burlywood;
 }
 </style>
