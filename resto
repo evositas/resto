@@ -2,16 +2,19 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Resto Sanjaya</title>
-    element {
- property: value;
-}
+     <link href="styles.css" rel="stylesheet"/>
+   </head>
 <style>
-h1 {
+body {
+background-color: burlywood;
+}
+h1, h2, p {
 text-align: center;
 }
-p {
-text-align: center;
+div {
+  width: 300px;
 }
 </style>
   </head>
