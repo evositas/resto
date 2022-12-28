@@ -3,12 +3,12 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Resto Sanjaya</title>
+    <title>Resto Seafood</title>
      <link href="styles.css" rel="stylesheet"/>
    </head>
 <style>
 body {
-  background-image: url(https://pbs.twimg.com/media/FkrNfhxUoAIw3Mi?format=jpg);
+  background-image: url(https://www.facebook.com/photo?fbid=5864941326898058&set=pcb.5864970423561815);
 }
 
 h1, h2, p {
@@ -23,8 +23,8 @@ div {
   <body>
   <div>
   <main>
-  <h1>RESTO SEAFOOD SANJAYA (RSS)</h1>
-  <p>Makanan Para Sang Pemenang</p>
+  <h1>RESTO DENY SEAFOOD (RDS)</h1>
+  <p>Makanan Bergizi Dan Berprotein Sehat</p>
   <section>
   <h2>Seafood</h2>
   </section>
