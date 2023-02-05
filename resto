@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Resto Seafood</title>
+    <title>Resto Deny Seafood</title>
      <link href="styles.css" rel="stylesheet"/>
    </head>
 <style>
@@ -26,13 +26,13 @@ div {
   <h1>RESTO DENY SEAFOOD (RDS)</h1>
   <p>Makanan Bergizi Dan Berprotein Sehat</p>
    <h2>Menu Makanan</p>
-    <p>• Kepiting Asam Manis</p>
-     <p>• Cumi Asam Manis</p>
-      <p>•Gurame</p>
-       <p>•Ayam Koloke</p>
-        <p>Burung Dara</p>
-         <p>Makanan Bergizi Dan Berprotein Sehat</p>
-          <p>Makanan Bergizi Dan Berprotein Sehat</p>
+    <p>• Kepiting Steam Rp. 80k</p>
+     <p>• Kepiting Saos Tiram Rp. 85k</p>
+      <p>• Kepiting Asam Manis Rp. 82k</p>
+       <p>• Kepiting Asam Pedas Rp. 82k</p>
+        <p>• Kepiting Mentega Rp. 82k</p>
+         <p>• Kepiting Telor Asin Rp. 85k</p>
+          <p>• Kepiting Lada Hitam Rp. 85k</p>
            <p>Makanan Bergizi Dan Berprotein Sehat</p>
             <p>Makanan Bergizi Dan Berprotein Sehat</p>
              <p>Makanan Bergizi Dan Berprotein Sehat</p>
