@@ -15,16 +15,16 @@ h1, h2, p {
 text-align: center;
 }
 div {
-  width: 500px;
-  background-color: burlywood;
+  width: 489px;
+  background-color: #b1c5ff;
 }
 </style>
   </head>
   <body>
   <div>
   <main>
-  <h1>RESTO DENY SEAFOOD (RDS)</h1>
-  <p>Makanan Bergizi, Berprotein Dan Nikmat</p>
+  <h1>RESTO DENY SEAFOOD</h1>
+  <p>Makanan Bergizi Yang Dikelolah Oleh Koki Yang Profesional</p>
    <h2>Menu Makanan</p>
     <p>• Kepiting Steam Rp.80k</p>
      <p>• Kepiting Saos Tiram Rp.85k</p>
