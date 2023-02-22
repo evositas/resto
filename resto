@@ -78,9 +78,9 @@
 		<h1>Resto Deny Seafood</h1>
 	</header>
 	<nav>
-		<a href="#">Home</a>
+		<a href="#">Halaman Depan</a>
 		<a href="#">Harga Menu</a>
-		<a href="#">Kontak</a>
+		<a href="08999587888">WhatApps</a>
 	</nav>
 	<main>
 		<section>
@@ -89,7 +89,7 @@
 			<button>Baca Selengkapnya</button>
 		</section>
 		<section>
-			<img src="https://twitter.com/gapigator/status/1609887990243037187/photo/1" alt="Gambar Berita 2">
+			<img src="https://pbs.twimg.com/media/Fld4l2NaEAUSlrR?format=jpg" alt="Gambar Berita 2">
 			<p>Gambar lokasi tampak depan.</p>
 			<button>Baca Selengkapnya</button>
 		</section>
