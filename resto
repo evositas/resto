@@ -78,7 +78,7 @@
 	<nav>
 		<a href="#">Halaman Depan</a>
 		<a href="#">Harga Menu</a>
-		<a href="08999587888">WhatApps</a>
+		<a href="https://api.whatsapp.com/send?phone=628999587888">WhatApps</a>
 	</nav>
 	<main>
 		<section>
@@ -135,7 +135,7 @@
 <p>• Lele Lada Hitam Rp.25k</p>
 </h2>
 	<footer>
-		<p>&copy; 2023 Resto Deny Seafood</p>
+		<p>&copy; April 2023 Resto Deny Seafood</p>
 	</footer>
 </body>
 </html>
